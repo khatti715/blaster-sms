@@ -1,0 +1,12 @@
+{
+  "name": "sms-bomber-proxy",
+  "version": "1.1.0",
+  "description": "Secure proxy with domain whitelisting, hidden admin panel, and custom restriction message",
+  "main": "api/bomb.js",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
